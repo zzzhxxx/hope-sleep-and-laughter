@@ -2,16 +2,16 @@
 <rss version="2.0">
     <channel>
         <title>希望，睡眠和微笑</title>
-        <link>http://example.com</link>
+        <link>https://article.zzzzhxxx.top</link>
         <description></description>
         <language>zh-cn</language>
-        <pubDate>Thu, 06 Jul 2023 13:45:51 +0000</pubDate>
-        <lastBuildDate>Thu, 06 Jul 2023 13:45:51 +0000</lastBuildDate>
+        <pubDate>Thu, 06 Jul 2023 13:55:31 +0000</pubDate>
+        <lastBuildDate>Thu, 06 Jul 2023 13:55:31 +0000</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2023/07/06/hello-world/</guid>
+            <guid isPermalink="true">https://article.zzzzhxxx.top/2023/07/06/hello-world/</guid>
             <title>Hello World!!!</title>
-            <link>http://example.com/2023/07/06/hello-world/</link>
-            <pubDate>Thu, 06 Jul 2023 13:45:51 +0000</pubDate>
+            <link>https://article.zzzzhxxx.top/2023/07/06/hello-world/</link>
+            <pubDate>Thu, 06 Jul 2023 13:55:31 +0000</pubDate>
             <description><![CDATA[ &lt;p&gt;Hello! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
