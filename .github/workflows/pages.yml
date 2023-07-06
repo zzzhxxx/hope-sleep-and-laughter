@@ -22,6 +22,10 @@ jobs:
           node-version: '18.16.0' # 自己正在使用的node版本即可
       # - run: node -v # 查看node版本号
       # 缓存依赖项: https://docs.github.com/cn/actions/using-workflows/caching-dependencies-to-speed-up-workflows
+      - name: Install ShokaX-CLI
+        run: npm install shokax-cli --location=global
+      - name: Install ShokaX
+        run: SXC install shokaX
       - name: Cache NPM dependencies
         uses: actions/cache@v2
         with:
@@ -35,10 +39,6 @@ jobs:
       # - name: Look Path
       #   run: pwd
       # 查看文件
-      - name: Install ShokaX-CLI
-        run: npm install shokax-cli --location=global
-      - name: Install ShokaX
-        run: SXC install shokaX
       - name: Look Dir List
         run: tree -L 3 -a
       # 第一次或者依赖发生变化的时候执行 Install Dependencies，其它构建的时候不需要这一步
