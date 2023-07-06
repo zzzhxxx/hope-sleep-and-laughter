@@ -1,4 +1,4 @@
-alternate: "Hope,Sleep,and Laughter" # 站点大标题
+alternate: Hope # 站点大标题
 
 statics: "/" # 静态文件根目录
 assets: "assets"
